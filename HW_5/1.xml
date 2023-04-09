@@ -1,0 +1,30 @@
+<!-- 
+
+Исходный код, который нужно исправить.
+
+<user>
+<name>"Иван"</name>
+<surname>"Иванов"</surname>
+<patronymic>"Иванович"</patronymic>
+<age>"30"</age>
+<phone>"Москва"</phone>
+<birthplace>"+7 926 766 48 48"</birthplace>
+</user 
+
+-->
+
+<!-- 
+ОТВЕТ - Неправильно закрыт последний тег 
+
+-->
+
+<user>
+
+    <name>"Иван"</name>
+    <surname>"Иванов"</surname>
+    <patronymic>"Иванович"</patronymic>
+    <age>"30"</age>
+    <phone>"Москва"</phone>
+    <birthplace>"+7 926 766 48 48"</birthplace>
+
+</user> 
